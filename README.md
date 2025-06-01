@@ -25,6 +25,8 @@ WordSmith is a user-friendly **wordlist generator** designed specifically for **
 ## 💾 Downloading the Output
 
 You can easily **download the generated passwords as a .txt file** by clicking the **Download as .txt** link below the password list. This makes it convenient to save your wordlist or use it with tools like `hashcat` or `John the Ripper`.
+<strong>Just give it the info you want in it (i did random info for this gif) In the gif it shows how to download it as a .txt</strong>
+![Example animation](example.gif)
 
 ---
 
