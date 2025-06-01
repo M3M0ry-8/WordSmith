@@ -6,7 +6,7 @@ WordSmith is a user-friendly **wordlist generator** designed specifically for **
 
 ## 🚀 How to Use the Tool
 
-1. Visit the WordSmith website.
+1. Visit the WordSmith website. https://m3m0ry-8.github.io/WordSmith/index.html
 2. Enter as much information as possible about the target or system, such as:
    - Wi-Fi AP Name
    - City
@@ -38,4 +38,5 @@ Always use WordSmith ethically and with proper permission.
 
 ---
 
-Thank you for using WordSmith! If you have suggestions or want to contribute, feel free to open an issue or submit a pull request.
+Thank you for using WordSmith! If you have suggestions, feel free to open an issue.
+
